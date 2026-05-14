@@ -15,16 +15,12 @@
 
 ## 🧠 About Me
 
-```python
-samreen = {
-    "role"       : "AI & ML Engineer | Data Scientist | Published Researcher",
-    "education"  : ["B.Tech IT @ Shadan WCET (GPA: 8.32)", "IIT Delhi Diploma (Ongoing)"],
-    "research"   : ["IEEE EARTHSENSE 2025", "GACE 2026 International Conference"],
-    "expertise"  : ["Generative AI", "Machine Learning", "Computer Vision", "Data Analytics"],
-    "currently"  : "Building AI systems that solve real-world problems 🚀",
-    "fun_fact"   : "I scored a perfect 10.0 GPA in SSC and haven't stopped learning since!"
-}
-```
+- 🤖 AI & ML Engineer | Data Scientist | IEEE Researcher  
+- 🎓 B.Tech IT @ Shadan WCET (GPA: 8.32)  
+- 📚 IIT Delhi Diploma (Ongoing)  
+- 🏆 Research Presenter at IEEE EARTHSENSE 2025 & GACE 2026  
+- 💡 Interests: Generative AI, Machine Learning, Computer Vision & Data Analytics  
+- 🚀 Building AI systems that solve real-world problems
 
 ---
 
@@ -57,7 +53,7 @@ samreen = {
 
 **AI & Machine Learning**
 
-![Python](https://img.shields.io/badge/Python-Advanced-6366f1?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-6366f1?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
@@ -84,7 +80,7 @@ samreen = {
 ![Gemini API](https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=google&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq%20API-F55036?style=flat-square&logo=groq&logoColor=white)
-
+![Weather API](https://img.shields.io/badge/Weather%20API-1E90FF?style=flat-square&logo=cloudflare&logoColor=white)
 </div>
 
 ---
