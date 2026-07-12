@@ -16,7 +16,7 @@
 ## 🧠 About Me
 
 - 🤖 AI & ML Engineer | Data Scientist | IEEE Researcher  
-- 🎓 B.Tech IT @ Shadan WCET (GPA: 8.32)  
+- 🎓 B.Tech IT @ Shadan WCET (GPA: 8.46)  
 - 📚 IIT Delhi Diploma (Ongoing)  
 - 🏆 Research Presenter at IEEE EARTHSENSE 2025 & GACE 2026  
 - 💡 Interests: Generative AI, Machine Learning, Computer Vision & Data Analytics  
