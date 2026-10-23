@@ -1,10 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&customColorList=6,11,20&height=240&section=header&text=Samreen%20Begum&fontSize=58&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=AI%20%26%20ML%20Engineer%20%E2%80%A2%20Data%20Analyst%20%E2%80%A2%20IEEE%20Researcher&descAlignY=60&descSize=20&descColor=e9d5ff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&customColorList=6,11,20&height=240&section=header&text=Samreen%20Begum&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=AI%20%26%20ML%20Engineer%20%E2%80%A2%20Data%20Analyst%20%E2%80%A2%20IEEE%20Researcher&descAlignY=60&descSize=20&descColor=e9d5ff" />
 
-<a href="https://github.com/Samreen-KHAN04">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=C084FC&center=true&vCenter=true&width=760&lines=Turning+raw+data+into+business+insights+%F0%9F%93%8A;Building+%26+deploying+end-to-end+AI+apps+%F0%9F%A4%96;IEEE+%26+GACE+Research+Presenter+%F0%9F%94%AC;IIT+Delhi+Diploma+Scholar+%F0%9F%8E%93" alt="Typing SVG" />
-</a>
+<b>Turning raw data into business insights &nbsp;•&nbsp; Building &amp; deploying end-to-end AI apps &nbsp;•&nbsp; IEEE &amp; GACE research presenter</b>
 
 <br/><br/>
 
