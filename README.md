@@ -1,14 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&customColorList=6,11,20&height=240&section=header&text=Samreen%20Begum&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=AI%20%26%20ML%20Engineer%20%E2%80%A2%20Data%20Analyst%20%E2%80%A2%20IEEE%20Researcher&descAlignY=60&descSize=20&descColor=e9d5ff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=160&section=header&text=Samreen%20Begum&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=IT%20Engineer%20%E2%80%A2%20Published%20IEEE%20Researcher%20%E2%80%A2%20IIT%20Delhi%20Scholar&descAlignY=58&descSize=16&descColor=c4b5fd" />
 
-<b>Turning raw data into business insights &nbsp;•&nbsp; Building &amp; deploying end-to-end AI apps &nbsp;•&nbsp; IEEE &amp; GACE research presenter</b>
+<br/>
 
-<br/><br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-samreenb--tech-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samreenb-tech)
-[![Email](https://img.shields.io/badge/Email-sam.reen0440%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sam.reen0440@gmail.com)
-[![Location](https://img.shields.io/badge/📍-Hyderabad%2C%20India-8b5cf6?style=for-the-badge)](https://github.com/Samreen-KHAN04)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-samreenb--tech-6366f1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samreenb-tech)
+[![Email](https://img.shields.io/badge/Email-sam.reen0440%40gmail.com-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sam.reen0440@gmail.com)
+[![Location](https://img.shields.io/badge/📍-Hyderabad%2C%20India-a78bfa?style=for-the-badge)](https://github.com/Samreen-KHAN04)
 
 <br/>
 
@@ -295,6 +293,6 @@ Integrates multiple healthcare datasets with a **star schema** and advanced DAX,
 
 *"Building AI that bridges the gap between research and real-world impact."*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&customColorList=6,11,20&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:6366f1&height=100&section=footer" />
 
 </div>
