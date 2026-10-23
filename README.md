@@ -249,28 +249,38 @@ Integrates multiple healthcare datasets with a **star schema** and advanced DAX,
 
 <h2 align="center">🏆 Certifications</h2>
 
-<div align="center">
+<table>
+<tr>
+<td width="34%" valign="top">
 
-**🎓 IIT Delhi: Entrepreneurship Development Cell (EDC)**
+### 🎓 IIT Delhi (EDC)
 
-![AI](https://img.shields.io/badge/IIT%20Delhi-Artificial%20Intelligence-6366f1?style=for-the-badge)
-![Python](https://img.shields.io/badge/IIT%20Delhi-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![DSA](https://img.shields.io/badge/IIT%20Delhi-Data%20Structures%20%26%20Algorithms-8b5cf6?style=for-the-badge)
-![Java](https://img.shields.io/badge/IIT%20Delhi-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![IoT](https://img.shields.io/badge/IIT%20Delhi-Internet%20of%20Things-10b981?style=for-the-badge)
+- Artificial Intelligence
+- Python
+- Data Structures & Algorithms
+- Java
+- Internet of Things
 
-**🌐 Industry & Virtual Experience**
+</td>
+<td width="33%" valign="top">
 
-![Infosys](https://img.shields.io/badge/Infosys-Data%20Visualization-007CC3?style=for-the-badge)
-![Deloitte](https://img.shields.io/badge/Deloitte%20(Forage)-Data%20Analytics-86BC25?style=for-the-badge)
-![Tata](https://img.shields.io/badge/Tata%20(Forage)-Gen%20AI%20Analytics-1f6feb?style=for-the-badge)
+### 🌐 Industry
 
-**🎤 Paper Presenter**
+- **Infosys:** Data Visualization
+- **Deloitte (Forage):** Data Analytics
+- **Tata (Forage):** Gen AI Analytics
 
-![IEEE](https://img.shields.io/badge/IEEE%20EARTHSENSE%202025-Paper%20Presenter-00629B?style=for-the-badge&logo=ieee&logoColor=white)
-![GACE](https://img.shields.io/badge/GACE%202026-Paper%20Presenter-ec4899?style=for-the-badge)
+</td>
+<td width="33%" valign="top">
 
-</div>
+### 🎤 Paper Presenter
+
+- **IEEE EARTHSENSE 2025**
+- **GACE 2026**
+
+</td>
+</tr>
+</table>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" />
 
