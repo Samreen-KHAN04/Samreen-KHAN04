@@ -284,15 +284,6 @@ Integrates multiple healthcare datasets with a **star schema** and advanced DAX,
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" />
 
-<h2 align="center">📈 GitHub Stats</h2>
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Samreen-KHAN04&show_icons=true&theme=tokyonight&hide_border=true&title_color=c084fc&icon_color=ec4899&bg_color=0d1117" alt="GitHub Stats" />
-<img src="https://streak-stats.demolab.com/?user=Samreen-KHAN04&theme=tokyonight&hide_border=true&ring=c084fc&fire=ec4899&currStreakLabel=c084fc&background=0d1117" height="180" alt="GitHub Streak" />
-
-<br/><br/>
-
 ### 🤝 Let's Connect
 *Open to Data Analyst, BI and AI/ML opportunities.*
 
